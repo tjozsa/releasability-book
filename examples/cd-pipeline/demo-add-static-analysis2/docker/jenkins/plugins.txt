@@ -1,0 +1,7 @@
+git:latest
+job-dsl:latest
+workflow-aggregator:latest
+simple-theme:latest
+blueocean:latest
+gitlab-branch-source:latest
+sonar:latest
